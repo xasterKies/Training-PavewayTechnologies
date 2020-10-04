@@ -1,7 +1,7 @@
 <template>
   <div>
       <div class="navi">
-            <div className="header__icons">
+            <div class="header__icons">
                     <div class="header__icon header__icon--active">
                         <HomeIcon/>
                         <p>Home</p>
