@@ -1,6 +1,5 @@
 <template>
    <div className="header">
-            <h1><b>CONTEST OHIO</b></h1>
             
             <div className="btn-sign">
                 <Button color= "primary" variant="outline-light"><span>Login</span></Button>
