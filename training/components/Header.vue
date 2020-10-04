@@ -2,17 +2,17 @@
    <div className="header">
             
             <div class="btn-sign">
-                <Button color= "primary" variant="outline-light"><span>Login</span></Button>
+                <Button class= "outline-light"><span>Login</span></Button>
             </div>
             
-            <div className="btn-sign">
-                <Button  variant="outline-light"><span>Sign up</span></Button>
+            <div class="btn-sign">
+                <Button  class="outline-light"><span>Sign up</span></Button>
             </div>
 </template>
 
 <script>
 export default {
-
+    Name = 'Header'
 }
 </script>
 
