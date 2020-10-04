@@ -1,6 +1,9 @@
 <template>
 <div>
-    
+    <header/>
+    <nav/>
+    <search/>
+    <v-course
 </div>
 </template>
 
