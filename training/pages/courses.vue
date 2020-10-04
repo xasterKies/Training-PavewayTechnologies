@@ -3,7 +3,7 @@
         <header/>
         <nav/>
         <search/>
-        <v-course
+        <v-course/>
     </div>
 </template>
 
