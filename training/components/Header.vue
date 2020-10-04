@@ -23,7 +23,7 @@ export default {
     padding: 20px!important;
     align-items: center!important;
     justify-content: space-between!important;
-    background-image: linear-gradient(to right, #051421, #042727);
+    background-image: linear-gradient(to right, #051421, #00274b);
    
 }
 
