@@ -1,5 +1,5 @@
 <template>
-   <div className="header">
+   <div class="header">
             
             <div class="btn-sign">
                 <Button class= "outline-light"><span>Login</span></Button>
@@ -12,7 +12,7 @@
 
 <script>
 export default {
-    Name = 'Header'
+    Name : 'Header'
 }
 </script>
 
