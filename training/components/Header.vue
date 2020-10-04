@@ -8,6 +8,7 @@
             <div class="btn-sign">
                 <Button  class="outline-light"><span>Sign up</span></Button>
             </div>
+   </div>
 </template>
 
 <script>
