@@ -8,6 +8,9 @@
 </template>
 
 <script>
+import Header from '../components/Header'
+import Nav from '../components/Nav'
+import Search from '../components/Search'
 export default {
 
 }
