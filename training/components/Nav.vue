@@ -8,19 +8,19 @@
                     </div>
             </div>
             <div class="header__icons">
-                <div className="header__icon header__icon--active">
+                <div class="header__icon header__icon--active">
                     <SupervisorAccountIcon/>
                     <p>Contestant<span><ArrowDropDownIcon/></span></p>
                 </div>
             </div>
-            <div className="header__icons">
-                <div className="header__icon header__icon--active">
+            <div class="header__icons">
+                <div class="header__icon header__icon--active">
                     <ThumbsUpIcon/>
                     <p>Vote</p>
                 </div>
             </div>
-            <div className="header__icons">
-                <div className="header__icon header__icon--active">
+            <div class="header__icons">
+                <div class="header__icon header__icon--active">
                     <ShoppingBasketIcon/>
                     <p>Products</p>
                 </div>
