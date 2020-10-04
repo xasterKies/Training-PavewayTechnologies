@@ -1,9 +1,9 @@
 <template>
     <div>
-        <header/>
-        <nav/>
-        <search/>
-        <v-course/>
+        <Header/>
+        <Nav/>
+        <Search/>
+        <V-course/>
     </div>
 </template>
 
