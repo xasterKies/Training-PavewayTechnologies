@@ -1,13 +1,13 @@
 <template>
   <div>
-      <div className="navi">
+      <div class="navi">
             <div className="header__icons">
-                    <div className="header__icon header__icon--active">
+                    <div class="header__icon header__icon--active">
                         <HomeIcon/>
                         <p>Home</p>
                     </div>
             </div>
-            <div className="header__icons">
+            <div class="header__icons">
                 <div className="header__icon header__icon--active">
                     <SupervisorAccountIcon/>
                     <p>Contestant<span><ArrowDropDownIcon/></span></p>
