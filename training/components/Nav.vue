@@ -36,6 +36,13 @@
 </template>
 
 <script>
+import HomeIcon from '@material-ui/icons/Home'
+import ThumbsUpIcon from '@material-ui/icons/ThumbUpSharp'
+import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
+import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
+import CardGiftcardIcon from '@material-ui/icons/CardGiftcard';
+import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
+
 export default {
     Name: 'Nav'
 }
