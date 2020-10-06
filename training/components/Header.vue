@@ -166,7 +166,12 @@ span > Button {
     padding: 0px !important;
 }
 
-.btn {
+Button {
     border: white !important;
+}
+
+Button > span {
+    padding: 5px;
+    padding-top: 5px !important;
 }
 </style>
