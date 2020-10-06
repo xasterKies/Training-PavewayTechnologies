@@ -19,11 +19,11 @@
             <div class="collapse navbar-collapse pull-right" id="navi">
                 <!------------------Navigation menu --------------------->
                 <span className="btn-sign">
-                <Button color= "primary" variant="outline-light"><span>Login</span></Button>
+                <Button color= "primary" variant="outline-light btn-raised"><span>Login</span></Button>
             </span>
             
             <span className="btn-sign">
-                <Button  variant="outline-light"><span>Sign up</span></Button>
+                <Button  variant="btn-outline-light btn-raised"><span>Sign up</span></Button>
             </span>
                 <!------------------Navigation menu ends --------------------->
             </div>
