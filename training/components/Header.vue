@@ -17,7 +17,7 @@
             </div>
 
 
-            <div class="collapse navbar-collapse" id="navi">
+            <div class="collapse navbar-collapse pull-right" id="navi">
                 <div class="btn-sign">
                     <button class= "outline-light btn btn-light"><span>Login</span></button>
                 </div>
