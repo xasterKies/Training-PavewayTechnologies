@@ -17,14 +17,14 @@
             </div>
 
 
-            <div class="collapse navbar-collapse header__img" id="navi">
-               <div class="btn-sign">
-                <button class= "outline-light btn btn-light"><span>Login</span></button>
-            </div>
-            
-            <div class="btn-sign">
-                <button  class="outline-light btn btn-light"><span>Sign up</span></button>
-            </div>
+            <div class="collapse navbar-collapse" id="navi">
+                <div class="btn-sign">
+                    <button class= "outline-light btn btn-light"><span>Login</span></button>
+                </div>
+                
+                <div class="btn-sign">
+                    <button  class="outline-light btn btn-light"><span>Sign up</span></button>
+                </div>
             </div>
         </div>
     </nav>
