@@ -2,7 +2,7 @@
    <div class="header">
             
            <nav class="navbar navbar-fixed-top">
-        <div>
+        <div class="container-fluid">
             <div class="navbar-header">
                 <!------------------Responsive button --------------------->
                 <button  type ="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navi">
