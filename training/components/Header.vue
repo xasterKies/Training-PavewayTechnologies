@@ -1,8 +1,7 @@
 <template>
    <div class="header">
-            
-           <nav class="navbar justify-content-between">
-        <div class="container-fluid">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
             <div class="navbar-header">
                 <!------------------Responsive button --------------------->
                 <button  type ="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navi">
@@ -11,21 +10,28 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="" class="navbar-brand">
-                    <img src="../assets/pavewayLogo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
-                    <h1 class="name pull-left">Paveway Training</h1>
+                    <img src="img/talent planet logo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
+                    <span class="name pull-left">Talent Planet</span>
                 </a>
             </div>
 
 
-            <span class="collapse navbar-collapse pull-right" id="navi">
-                <div class="btn-sign">
-                    <button class= "outline-light btn btn-light"><span>Login</span></button>
-                </div>
-                
-                <div class="btn-sign">
-                    <button  class="outline-light btn btn-light"><span>Sign up</span></button>
-                </div>
-            </span>
+            <div class="collapse navbar-collapse" id="navi">
+                <!------------------Navigation menu --------------------->
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#slider">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="#event">Event</a></li>
+                    <li><a href="#team">Team</a></li>
+                    <li><a href="#footer" class="contact">Contact Us</a></li>
+                </ul>
+                <!------------------Navigation menu ends --------------------->
+            </div>
+
+
+
         </div>
     </nav>
             
