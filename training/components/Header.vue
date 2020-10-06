@@ -118,7 +118,7 @@ export default {
 }
 
 h1 {
-    margin-top: -5px;
+    margin-bottom: -15px;
     letter-spacing: 2px!important;
     margin-right: auto!important;
     font-weight: 700;
