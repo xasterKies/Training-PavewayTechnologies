@@ -11,7 +11,7 @@
                 </button>
                 <a href="" class="navbar-brand">
                     <img src="../assets/pavewayLogo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
-                    <span class="name pull-left">PaveWay Training/span>
+                    <h1 class="name pull-left">PaveWay Training</h1>
                 </a>
             </div>
 
