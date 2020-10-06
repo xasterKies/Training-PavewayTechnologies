@@ -16,15 +16,15 @@
             </div>
 
 
-            <div class="collapse navbar-collapse" id="navi">
+            <div class="collapse navbar-collapse pull-right" id="navi">
                 <!------------------Navigation menu --------------------->
-                <div className="btn-sign">
+                <span className="btn-sign">
                 <Button color= "primary" variant="outline-light"><span>Login</span></Button>
-            </div>
+            </span>
             
-            <div className="btn-sign">
+            <span className="btn-sign">
                 <Button  variant="outline-light"><span>Sign up</span></Button>
-            </div>
+            </span>
                 <!------------------Navigation menu ends --------------------->
             </div>
 
