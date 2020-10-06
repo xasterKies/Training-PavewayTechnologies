@@ -10,8 +10,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="" class="navbar-brand">
-                    <img src="img/talent planet logo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
-                    <span class="name pull-left">Talent Planet</span>
+                    <img src="../assets/pavewayLogo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
+                    <span class="name pull-left">PaveWay Training/span>
                 </a>
             </div>
 
