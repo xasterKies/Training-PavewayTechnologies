@@ -3,45 +3,30 @@
       <div class="navi">
             <div class="header__icons">
                     <div class="header__icon header__icon--active">
-                        <HomeIcon/>
+                        <font-awesome-icon icon="calendar"/>
                         <p>Home</p>
                     </div>
             </div>
             <div class="header__icons">
                 <div class="header__icon header__icon--active">
-                    <SupervisorAccountIcon/>
-                    <p>Contestant<span><ArrowDropDownIcon/></span></p>
+                    
+                    <p>Contestant<span></span></p>
                 </div>
             </div>
             <div class="header__icons">
                 <div class="header__icon header__icon--active">
-                    <ThumbsUpIcon/>
+                    
                     <p>Vote</p>
                 </div>
             </div>
-            <div class="header__icons">
-                <div class="header__icon header__icon--active">
-                    <ShoppingBasketIcon/>
-                    <p>Products</p>
-                </div>
-            </div>
-            <div class="header__icons">
-                <div class="header__icon header__icon--active">
-                    <CardGiftcardIcon/>
-                    <p>Support</p>
-                </div>
-            </div>
+            
         </div>
   </div>
 </template>
 
 <script>
-import HomeIcon from '@material-ui/icons/Home'
-import ThumbsUpIcon from '@material-ui/icons/ThumbUpSharp'
-import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
-import SupervisorAccountIcon from '@material-ui/icons/SupervisorAccount';
-import CardGiftcardIcon from '@material-ui/icons/CardGiftcard';
-import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
+
+
 
 export default {
     Name: 'Nav'

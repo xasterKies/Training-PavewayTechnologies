@@ -1,14 +1,36 @@
 <template>
    <div class="header">
             
-            <div class="btn-sign">
-                <Button class= "outline-light"><span>Login</span></Button>
+           <nav class="navbar navbar-fixed-top">
+        <div>
+            <div class="navbar-header">
+                <!------------------Responsive button --------------------->
+                <button  type ="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navi">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="" class="navbar-brand">
+                    <img src="../assets/pavewayLogo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
+                    <h1 class="name pull-left">Paveway Training</h1>
+                </a>
+            </div>
+
+
+            <div class="collapse navbar-collapse" id="navi">
+               <div class="btn-sign">
+                <Button class= "outline-light btn btn-light"><span>Login</span></Button>
             </div>
             
             <div class="btn-sign">
-                <Button  class="outline-light"><span>Sign up</span></Button>
+                <Button  class="outline-light btn btn-light"><span>Sign up</span></Button>
             </div>
-   </div>
+            </div>
+        </div>
+    </nav>
+            
+ </div>
+   
 </template>
 
 <script>
@@ -24,7 +46,7 @@ export default {
     padding: 20px!important;
     align-items: center!important;
     justify-content: space-between!important;
-    background-image: linear-gradient(to right, #051421, #00274b);
+    background-image: linear-gradient(to right, #000, #00439b);
    
 }
 
@@ -83,7 +105,9 @@ export default {
 h1 {
     letter-spacing: 2px!important;
     margin-right: auto!important;
-    font-weight: 400;
+    font-weight: 700;
+    color: white;
+    margin-top: -10px;
 }
 
 .btn-sign {
@@ -103,5 +127,17 @@ div > Button {
     margin-left: auto;
     margin-right: auto;
     font-size: small;
+}
+
+.logo {
+    max-width: 10%;
+    height: auto;
+    display: flex;
+    margin-right: auto;
+}
+
+.logo-responsive {
+    margin-top: -20px;
+    
 }
 </style>
