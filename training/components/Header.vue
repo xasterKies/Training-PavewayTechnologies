@@ -156,4 +156,8 @@ span > Button {
     margin-top: -20px;
     
 }
+
+.navbar-brand {
+    margin-top: 15px;
+}
 </style>
