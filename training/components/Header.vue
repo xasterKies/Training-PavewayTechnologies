@@ -18,15 +18,13 @@
 
             <div class="collapse navbar-collapse" id="navi">
                 <!------------------Navigation menu --------------------->
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#slider">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#gallery">Gallery</a></li>
-                    <li><a href="#event">Event</a></li>
-                    <li><a href="#team">Team</a></li>
-                    <li><a href="#footer" class="contact">Contact Us</a></li>
-                </ul>
+                <div className="btn-sign">
+                <Button color= "primary" variant="outline-light"><span>Login</span></Button>
+            </div>
+            
+            <div className="btn-sign">
+                <Button  variant="outline-light"><span>Sign up</span></Button>
+            </div>
                 <!------------------Navigation menu ends --------------------->
             </div>
 
