@@ -101,7 +101,7 @@ export default {
     padding-left: 5px;
     padding-left: 
     font-weight: 0.5;
-    color: #ffffff
+    color: #ffffff;
 }
 
 .navbar {
