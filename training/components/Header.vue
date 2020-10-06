@@ -67,10 +67,6 @@ export default {
     text-align: center;
 }
 
-.header > button {
-    object-fit: contain;
-    height: 80px;
-}
 
 .header__icon {
     display: flex;
@@ -120,8 +116,9 @@ h1 {
     box-shadow: white !important;
 }
 
-div > Button {
-    display: none;
+div > button {
+    display: flex;
+    flex-direction: column;
     text-transform: uppercase;
     letter-spacing: 3px;
     margin-left: auto;
