@@ -1,7 +1,7 @@
 <template>
    <div class="header">
             
-           <nav class="navbar navbar-fixed-top">
+           <nav>
         <div class="container-fluid">
             <div class="navbar-header">
                 <!------------------Responsive button --------------------->
