@@ -1,6 +1,6 @@
 <template>
    <div class="header">
-        <nav class="navbar navbar-inverse navbar-fixed-top">
+        <nav class="navbar navbar-light navbar-fixed-top" style="background-color: #e3f2fd;" >
         <div class="container">
             <div class="navbar-header">
                 <!------------------Responsive button --------------------->
