@@ -1,7 +1,7 @@
 <template>
    <div class="header">
             
-           <nav>
+           <nav class="navbar justify-content-between">
         <div class="container-fluid">
             <div class="navbar-header">
                 <!------------------Responsive button --------------------->
@@ -17,7 +17,7 @@
             </div>
 
 
-            <div class="collapse navbar-collapse pull-right" id="navi">
+            <span class="collapse navbar-collapse pull-right" id="navi">
                 <div class="btn-sign">
                     <button class= "outline-light btn btn-light"><span>Login</span></button>
                 </div>
@@ -25,7 +25,7 @@
                 <div class="btn-sign">
                     <button  class="outline-light btn btn-light"><span>Sign up</span></button>
                 </div>
-            </div>
+            </span>
         </div>
     </nav>
             
