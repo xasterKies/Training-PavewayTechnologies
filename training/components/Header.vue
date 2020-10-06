@@ -117,7 +117,7 @@ h1 {
 }
 
 div > button {
-    display: flex;
+    display: flex !important;
     flex-direction: column;
     text-transform: uppercase;
     letter-spacing: 3px;
