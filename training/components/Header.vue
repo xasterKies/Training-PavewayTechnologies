@@ -14,10 +14,8 @@
                     <img src="../assets/pavewayLogo.png" alt="logo" class="logo pull-left logo-responsive d-inline-block align-top">
                     <h1 class="name pull-left">Paveway Training</h1>
                 </a>
-            </div>
 
-
-            <div class="collapse navbar-collapse header__img" id="navi">
+                <div class="collapse navbar-collapse header__img" id="navi">
                <div class="btn-sign">
                 <button class= "outline-light btn btn-light"><span>Login</span></button>
             </div>
@@ -26,6 +24,10 @@
                 <button  class="outline-light btn btn-light"><span>Sign up</span></button>
             </div>
             </div>
+            </div>
+
+
+            
         </div>
     </nav>
             
