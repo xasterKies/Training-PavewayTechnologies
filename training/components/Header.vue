@@ -120,11 +120,11 @@ h1 {
     box-shadow: white !important;
 }
 
-div > button {
-    display: flex !important;
+span > Button {
     flex-direction: column;
     text-transform: uppercase;
     letter-spacing: 3px;
+    margin-top: 15px;
     margin-left: auto;
     margin-right: auto;
     font-size: small;
