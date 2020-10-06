@@ -94,6 +94,21 @@ export default {
     font-size: small;
 }
 
+.name {
+    font-size: 30px;
+    text-decoration: solid;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    font-weight: 0.5;
+    color: #ffffff
+}
+
+.navbar {
+    padding: 25px 0px;
+    border-bottom: none !important;
+    transition: all 0.5s ease-in-out;
+}
+
 .header__icon:hover > p {
     display: inline-flex;
 }
