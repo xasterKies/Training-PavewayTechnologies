@@ -99,7 +99,7 @@ export default {
     text-decoration: solid;
     padding-bottom: 15px;
     padding-left: 5px;
-    padding-left: 
+    padding-top: 
     font-weight: 0.5;
     color: #ffffff;
 }
