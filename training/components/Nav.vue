@@ -10,7 +10,7 @@
             <div class="header__icons">
                 <div class="header__icon header__icon--active">
                     
-                    <p>Contestant<span></span></p>
+                    <p>Contestan<span></span></p>
                 </div>
             </div>
             <div class="header__icons">
