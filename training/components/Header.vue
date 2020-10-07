@@ -1,5 +1,5 @@
 <template>
-   <div class="header">
+   <div class="head">
         <nav class="navbar navbar-light navbar-fixed-top" style="background-color: #e3f2fd;" >
         <div class="container">
             <div class="navbar-header">
@@ -44,13 +44,13 @@ export default {
 </script>
 
 <style>
-    .header {
+    .head {
     color: white !important;
     display: flex!important;
     padding: 20px!important;
     align-items: center!important;
     justify-content: space-between!important;
-    background-image: linear-gradient(to right, #000, #00439b);
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.486), #e3f2fd) !important;
    
 }
 
