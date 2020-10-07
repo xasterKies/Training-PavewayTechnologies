@@ -1,6 +1,7 @@
 <template>
       <center>
-        <div class="navi" col-md-12>
+        <div class="navi col-md-12">
+            <div class="container">
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
                     <i class="fa fa-home"></i>
@@ -16,7 +17,7 @@
                 </div>
                 
             </div>
-            
+            </div>
         </div>
     </center>
 </template>
@@ -40,6 +41,7 @@ export default {
     align-items: center;
     justify-content: space-between;
     overflow-x: scroll;
+
     margin-top: 35px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
 
