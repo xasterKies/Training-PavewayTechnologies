@@ -1,5 +1,5 @@
 <template>
-   <div class="head">
+   <div>
         <nav class="navbar navbar-light navbar-fixed-top" style="background-color: #e3f2fd;" >
         <div class="container">
             <div class="navbar-header">
