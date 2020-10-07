@@ -19,11 +19,11 @@
             <div class="collapse navbar-collapse pull-right" id="navi">
                 <!------------------Navigation menu --------------------->
                 <span className="btn-sign">
-                <Button class="btn btn-primary btn-outline-light btn-raised"><span>Login</span></Button>
+                <Button class="btn btn-primary "><span>Login</span></Button>
             </span>
             
             <span className="btn-sign">
-                <Button  class="btn btn-primary btn-raised"><span>Sign up</span></Button>
+                <Button  class="btn btn-primary"><span>Sign up</span></Button>
             </span>
                 <!------------------Navigation menu ends --------------------->
             </div>
@@ -99,7 +99,7 @@ export default {
     text-decoration: solid;
     padding-bottom: 15px;
     padding-left: 5px;
-    margin-top: -7px;
+    margin-bottom: -15px;
     font-weight: 0.5;
     color: #ffffff;
 }
