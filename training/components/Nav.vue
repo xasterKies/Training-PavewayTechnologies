@@ -1,7 +1,7 @@
 <template>
   <div>
-      <div class="navi navbar navbar-light">
-          <div class="container-fluid">
+      <div class="navi">
+          <div>
             <div class="header__icons">
                     <div class="header__icon header__icon--active">
                         <font-awesome-icon icon="calendar"/>
@@ -71,7 +71,5 @@ export default {
     transform: scale(1.2)
 }
 
-.navbar {
-    position: relative;
-}
+
 </style>
