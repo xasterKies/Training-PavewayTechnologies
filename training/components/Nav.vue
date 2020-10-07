@@ -10,13 +10,13 @@
             <div class="header__icons">
                 <div class="header__icon header__icon--active">
                     
-                    <p>Contestan<span></span></p>
+                    <p>Courses<span></span></p>
                 </div>
             </div>
             <div class="header__icons">
                 <div class="header__icon header__icon--active">
                     
-                    <p>Vote</p>
+                    <p>My Courses</p>
                 </div>
             </div>
             
