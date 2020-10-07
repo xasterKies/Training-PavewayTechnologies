@@ -19,11 +19,11 @@
             <div class="collapse navbar-collapse pull-right" id="navi">
                 <!------------------Navigation menu --------------------->
                 <span className="btn-sign">
-                <Button class="btn-primary btn-outline-light btn-raised"><span>Login</span></Button>
+                <Button class="btn btn-primary btn-outline-light btn-raised"><span>Login</span></Button>
             </span>
             
             <span className="btn-sign">
-                <Button  class=" btn-primary  btn-raised"><span>Sign up</span></Button>
+                <Button  class="btn btn-primary  btn-raised"><span>Sign up</span></Button>
             </span>
                 <!------------------Navigation menu ends --------------------->
             </div>
@@ -141,7 +141,7 @@ h1 {
 span > Button {
     flex-direction: column;
     letter-spacing: 3px;
-    margin-top: 15px;
+    
     margin-left: auto;
     margin-right: auto;
     font-size: small;
@@ -167,10 +167,8 @@ span > Button {
 
 Button {
     border: white !important;
-    height: 20px;
+    
 }
 
-Button > span {
-    margin: 5px;
-}
+
 </style>
