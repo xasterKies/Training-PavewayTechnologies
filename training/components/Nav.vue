@@ -1,20 +1,20 @@
 <template>
       <center>
         <div class="navi col-md-12">
-            <div class="container">
+            <div class="container-fluid">
             <div className="header__icons">
-                <div class="item">
+                <span class="item">
                 <div className="header__icon header__icon--active">
                     <i class="fa fa-home"></i>
                     <p>Home</p>
                 </div>
-                </div>
-                <div class="item">
+                </span>
+                <span class="item">
                 <div className="header__icon">
                     <i class="fa fa-home"></i>
                     <p>Courses</p>
                 </div>
-                </div>
+                </span>
                 <div class="item">
                 <div className="header__icon">
                     <i class="fa fa-home"></i>
@@ -101,13 +101,12 @@ export default {
     display: inline-flex;
 }
 
+
 .header__icon--active > p {
     display: inline-flex;
 }
 
-.item {
-    flex-direction: row;
-}
+
 
 
 </style>
