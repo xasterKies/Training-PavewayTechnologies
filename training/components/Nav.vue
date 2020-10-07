@@ -55,7 +55,7 @@ export default {
     align-items: center;
     justify-content: space-between;
     overflow-x: scroll;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 /*Removing scroll*/
