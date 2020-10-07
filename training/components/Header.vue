@@ -23,7 +23,7 @@
             </span>
             
             <span className="btn-sign">
-                <Button  class="btn-primary btn-outline-light btn-raised"><span>Sign up</span></Button>
+                <Button  class=" btn-primary  btn-raised"><span>Sign up</span></Button>
             </span>
                 <!------------------Navigation menu ends --------------------->
             </div>
