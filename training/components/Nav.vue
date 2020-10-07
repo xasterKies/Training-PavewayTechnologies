@@ -40,7 +40,7 @@ export default {
     align-items: center;
     justify-content: space-between;
     overflow-x: scroll;
-    margin-top: 33px;
+    margin-top: 36px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
 
 }
