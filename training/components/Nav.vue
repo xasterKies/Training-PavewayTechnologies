@@ -1,28 +1,38 @@
 <template>
-      <div class="navi">
-          <div>
-            <div class="header__icons">
-                    <div class="header__icon header__icon--active">
-                        <i class="fas fa-home"></i>
+      <center>
+        <div className="navi">
+            <div className="header__icons">
+                    <div className="header__icon header__icon--active">
+                        <HomeIcon/>
                         <p>Home</p>
                     </div>
             </div>
-            <div class="header__icons">
-                <div class="header__icon header__icon--active">
-                    
-                    <p>Courses<span></span></p>
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <SupervisorAccountIcon/>
+                    <p>Contestant<span><ArrowDropDownIcon/></span></p>
                 </div>
             </div>
-            <div class="header__icons">
-                <div class="header__icon header__icon--active">
-                    
-                    <p>My Courses</p>
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <ThumbsUpIcon/>
+                    <p>Vote</p>
                 </div>
             </div>
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <ShoppingBasketIcon/>
+                    <p>Products</p>
+                </div>
             </div>
-            
+            <div className="header__icons">
+                <div className="header__icon header__icon--active">
+                    <CardGiftcardIcon/>
+                    <p>Support</p>
+                </div>
+            </div>
         </div>
-  
+    </center>
 </template>
 
 <script>
@@ -41,7 +51,6 @@ export default {
     overflow-x: scroll!important;
     padding: 10px!important;
     padding-left: 40px!important;
-    background-image: linear-gradient(to right, #051421, #042727);
 }
 
 /*Hiding scrollbar*/
