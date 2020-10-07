@@ -105,5 +105,9 @@ export default {
     display: inline-flex;
 }
 
+.item {
+    flex-direction: row;
+}
+
 
 </style>
