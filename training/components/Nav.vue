@@ -1,6 +1,7 @@
 <template>
   <div>
-      <div class="navi">
+      <div class="navi navbar navbar-light">
+          <div class="container-fluid">
             <div class="header__icons">
                     <div class="header__icon header__icon--active">
                         <font-awesome-icon icon="calendar"/>
@@ -18,6 +19,7 @@
                     
                     <p>My Courses</p>
                 </div>
+            </div>
             </div>
             
         </div>
@@ -67,5 +69,9 @@ export default {
 .navi > div:hover {
     opacity: 1;
     transform: scale(1.2)
+}
+
+.navbar {
+    position: relative;
 }
 </style>
