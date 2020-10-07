@@ -35,7 +35,7 @@ export default {
 
 <style>
    .navi {
-       margin-top: 50px
+       margin-top: 50px;
    }
 
 
