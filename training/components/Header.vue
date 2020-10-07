@@ -140,7 +140,6 @@ h1 {
 
 span > Button {
     flex-direction: column;
-    text-transform: uppercase;
     letter-spacing: 3px;
     margin-top: 15px;
     margin-left: auto;
