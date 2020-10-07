@@ -4,7 +4,7 @@
           <div>
             <div class="header__icons">
                     <div class="header__icon header__icon--active">
-                        <font-awesome-icon icon="calendar"/>
+                        <i class="fa fa-home"></i>
                         <p>Home</p>
                     </div>
             </div>
