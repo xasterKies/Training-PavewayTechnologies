@@ -7,12 +7,12 @@
                     <p>Home</p>
                 </div>
                 <div className="header__icon">
-                    <FlashOnIcon/>
-                    <p>Trending</p>
+                    <i class="fa fa-home"></i>
+                    <p>Courses</p>
                 </div>
                 <div className="header__icon">
-                    <LiveTvIcon/>
-                    <p>Live Tv</p>
+                    <i class="fa fa-home"></i>
+                    <p>My Courses</p>
                 </div>
                 
             </div>
