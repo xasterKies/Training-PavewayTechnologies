@@ -105,7 +105,8 @@ export default {
 }
 
 .navbar {
-    padding: 25px 0px;
+    padding: 20px 0px;
+    margin: 0 !important;
     border-bottom: none !important;
     transition: all 0.5s ease-in-out;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
