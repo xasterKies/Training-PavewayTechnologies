@@ -46,10 +46,7 @@ export default {
 </script>
 
 <style>
-   .navi {
-       margin: 50px;
-       overflow: hidden;
-   }
+  
 
    .navi {
     color: white;
@@ -58,14 +55,15 @@ export default {
     align-items: center;
     justify-content: space-between;
     overflow-x: scroll;
+    margin-top: 100px;
 }
 
 /*Removing scroll*/
-.header::-webkit-scrollbar {
+.navi::-webkit-scrollbar {
     display: none;
 }
 
-.header {
+.navi {
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
