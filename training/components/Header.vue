@@ -172,6 +172,6 @@ Button {
 }
 
 Button > span {
-    
+    margin: 5px;
 }
 </style>
