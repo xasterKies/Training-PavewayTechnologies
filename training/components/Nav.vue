@@ -19,18 +19,7 @@
                     <p>Vote</p>
                 </div>
             </div>
-            <div className="header__icons">
-                <div className="header__icon header__icon--active">
-                    <ShoppingBasketIcon/>
-                    <p>Products</p>
-                </div>
-            </div>
-            <div className="header__icons">
-                <div className="header__icon header__icon--active">
-                    <CardGiftcardIcon/>
-                    <p>Support</p>
-                </div>
-            </div>
+            
         </div>
     </center>
 </template>
@@ -77,6 +66,35 @@ export default {
 .navi > div:hover {
     opacity: 1;
     transform: scale(1.2)
+}
+
+.header__icons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+.header__icon {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    width: 100px;
+}
+
+.header__icon > .MuiSvgIcon-root {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+.header__icon > p {
+    display: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
 }
 
 
