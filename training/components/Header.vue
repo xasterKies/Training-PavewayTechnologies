@@ -105,8 +105,8 @@ export default {
 }
 
 .navbar {
-    padding: 20px 0px;
-    margin: 0 !important;
+    padding-top: 20px;
+    margin-bottom: 0 !important;
     border-bottom: none !important;
     transition: all 0.5s ease-in-out;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
@@ -164,8 +164,9 @@ span > Button {
 
 .navbar-brand {
     
-    margin: 0px !important;
+    margin-bottom: 5px !important;
     padding: 0px !important;
+    
 }
 
 Button {
