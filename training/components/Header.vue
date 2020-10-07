@@ -108,6 +108,8 @@ export default {
     padding: 25px 0px;
     border-bottom: none !important;
     transition: all 0.5s ease-in-out;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
+
 }
 
 .header__icon:hover > p {
