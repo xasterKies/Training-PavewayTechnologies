@@ -14,22 +14,7 @@
                     <LiveTvIcon/>
                     <p>Live Tv</p>
                 </div>
-                <div className="header__icon">
-                    <VideoLibraryIcon/>
-                    <p>Collections</p>
-                </div>
-                <div className="header__icon">
-                    <SearchIcon/>
-                    <p>Search</p>
-                </div>
-                <div className="header__icon">
-                    <PersonOutlineIcon/>
-                    <p>Account</p>
-                </div>
                 
-                
-                
-
             </div>
             
         </div>
@@ -56,6 +41,8 @@ export default {
     justify-content: space-between;
     overflow-x: scroll;
     margin-top: 50px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
+
 }
 
 /*Removing scroll*/
