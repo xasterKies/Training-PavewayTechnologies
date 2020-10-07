@@ -168,10 +168,10 @@ span > Button {
 
 Button {
     border: white !important;
+    height: 20px;
 }
 
 Button > span {
-    padding: 5px;
-    padding-top: 5px !important;
+    
 }
 </style>
