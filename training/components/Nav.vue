@@ -3,19 +3,24 @@
         <div class="navi col-md-12">
             <div class="container">
             <div className="header__icons">
+                <div class="item">
                 <div className="header__icon header__icon--active">
                     <i class="fa fa-home"></i>
                     <p>Home</p>
                 </div>
+                </div>
+                <div class="item">
                 <div className="header__icon">
                     <i class="fa fa-home"></i>
                     <p>Courses</p>
                 </div>
+                </div>
+                <div class="item">
                 <div className="header__icon">
                     <i class="fa fa-home"></i>
                     <p>My Courses</p>
                 </div>
-                
+                </div>
             </div>
             </div>
         </div>
@@ -70,8 +75,9 @@ export default {
 }
 
 .header__icon {
-    display: flex;
-    flex-direction: column;
+    display: flex !important;
+    flex-direction: column !important;
+    border: white;
     cursor: pointer;
     width: 100px;
 }
