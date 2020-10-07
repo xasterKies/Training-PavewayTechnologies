@@ -3,7 +3,7 @@
         <div class="navi">
             <div className="header__icons">
                 <div className="header__icon header__icon--active">
-                    <HomeIcon/>
+                    <i class="fa fa-home"></i>
                     <p>Home</p>
                 </div>
                 <div className="header__icon">
