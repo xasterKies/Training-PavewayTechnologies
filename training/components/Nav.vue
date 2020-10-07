@@ -1,5 +1,4 @@
 <template>
-  <div>
       <div class="navi">
           <div>
             <div class="header__icons">
@@ -23,7 +22,7 @@
             </div>
             
         </div>
-  </div>
+  
 </template>
 
 <script>
