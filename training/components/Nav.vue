@@ -1,7 +1,8 @@
 <template>
       <center>
-        <div class="navi">
+        <div class="navi container">
             <ul class="nav navbar-nav">
+                
                 <li>Home</li>
                 <li>Courses</li>
                 <li>My Courses</li>
