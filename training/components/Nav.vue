@@ -75,7 +75,7 @@ export default {
     font-size: 30px;
 }
 
-.navbar > .fa > li {
+li {
     display: none;
     text-transform: uppercase;
     letter-spacing: 3px;
