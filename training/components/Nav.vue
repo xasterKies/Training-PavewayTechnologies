@@ -61,12 +61,16 @@ export default {
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
+
 /*Removing scroll*/
 
 .header__icons {
     display: flex;
     align-items: center;
     text-align: center;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .header > img {
