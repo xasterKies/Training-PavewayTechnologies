@@ -30,5 +30,24 @@ export default {
 </script>
 
 <style>
+.slider {
+    width: 100%;
+    height: 700px;
+    background-image: url('../img/kemda\ sandra\ winner\ of\ slam\ the\ skill.jpg');
+    background-size: cover;
+    background-position: center;
+}
 
+.slider-overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.65);
+    position: relative;
+}
+
+.slider-content{
+    position: absolute;
+    top: 39%;
+    width: 100%;
+}
 </style>
