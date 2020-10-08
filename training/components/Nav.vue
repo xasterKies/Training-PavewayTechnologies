@@ -77,11 +77,11 @@ export default {
 
 li {
     display: none;
-    text-transform: uppercase;
     letter-spacing: 3px;
     margin-left: auto;
     margin-right: auto;
     font-size: small;
+    padding: 25px;
 }
 
 .header__icon:hover > p {
