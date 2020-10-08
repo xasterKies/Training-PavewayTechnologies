@@ -2,8 +2,10 @@
       <center>
         <div class="navi container">
             <ul class="nav navbar-nav">
+                <span>
+                    <li>Home</li>
+                </span>
                 
-                <li>Home</li>
                 <li>Courses</li>
                 <li>My Courses</li>
             </ul>
