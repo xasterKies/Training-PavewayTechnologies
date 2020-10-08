@@ -77,7 +77,7 @@ export default {
 
 li {
     display: none;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     margin-left: auto;
     margin-right: auto;
     font-size: 15px;
