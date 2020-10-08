@@ -75,8 +75,9 @@ export default {
     font-size: 30px;
 }
 
-.header__icon > p {
+.navbar > li {
     display: none;
+    text-transform: uppercase;
     letter-spacing: 3px;
     margin-left: auto;
     margin-right: auto;
