@@ -1,27 +1,11 @@
 <template>
       <center>
-        <div class="navi col-md-12">
-            <div class="container-fluid">
-            <div className="header__icons">
-                
-                <div className="header__icon header__icon--active">
-                    <i class="fa fa-home"></i>
-                    <p>Home</p>
-                </div>
-                
-                <div className="header__icon">
-                    <i class="fa fa-home"></i>
-                    <p>Courses</p>
-                </div>
-                
-                
-                <div className="header__icon">
-                    <i class="fa fa-home"></i>
-                    <p>My Courses</p>
-                </div>
-                
-            </div>
-            </div>
+        <div class="navi">
+            <ul class="nav navbar-nav">
+                <li>Home</li>
+                <li>Courses</li>
+                <li>My Courses</li>
+            </ul>
         </div>
     </center>
 </template>
@@ -64,12 +48,8 @@ export default {
 /*Removing scroll*/
 
 .header__icons {
-    
     align-items: center;
     text-align: center;
-    flex: 1;
-    flex-direction: row;
-    justify-content: space-around;
 }
 
 .header > img {
