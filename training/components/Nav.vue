@@ -5,10 +5,10 @@
                     <i class="fa fa-home"></i>
                     <li>Home</li>
                 
-                
+                    <i class="fa fa-home"></i>
                     <li>Courses</li>
                 
-                
+                    <i class="fa fa-home"></i>
                     <li>My Courses</li>
                 
             </ul>
