@@ -2,15 +2,15 @@
       <center>
         <div class="navi container">
             <ul class="nav navbar-nav">
-                <span>
+                    <i class="fa fa-home"></i>
                     <li>Home</li>
-                </span>
-                <span>
+                
+                
                     <li>Courses</li>
-                </span>
-                <span>
+                
+                
                     <li>My Courses</li>
-                </span>
+                
             </ul>
         </div>
     </center>
@@ -77,7 +77,6 @@ export default {
 
 .header__icon > p {
     display: none;
-    text-transform: uppercase;
     letter-spacing: 3px;
     margin-left: auto;
     margin-right: auto;
