@@ -5,7 +5,7 @@
                 <div class="slider-content">
                     
                     <br>
-                    <div class="text">We Train</div>
+                    <div class="text">Participate to our training program</div>
                     <br><br>
                     <div class="cta-div">
                         <a href="" class="btn1"><span class="con-text btn btn-primary">Contact Us</span></a>
