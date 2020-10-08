@@ -3,24 +3,23 @@
         <div class="navi col-md-12">
             <div class="container-fluid">
             <div className="header__icons">
-                <span class="item">
+                
                 <div className="header__icon header__icon--active">
                     <i class="fa fa-home"></i>
                     <p>Home</p>
                 </div>
-                </span>
-                <span class="item">
+                
                 <div className="header__icon">
                     <i class="fa fa-home"></i>
                     <p>Courses</p>
                 </div>
-                </span>
-                <div class="item">
+                
+                
                 <div className="header__icon">
                     <i class="fa fa-home"></i>
                     <p>My Courses</p>
                 </div>
-                </div>
+                
             </div>
             </div>
         </div>
