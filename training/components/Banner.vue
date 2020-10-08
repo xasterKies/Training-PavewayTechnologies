@@ -33,7 +33,7 @@ export default {
 .slider {
     width: 100%;
     height: 700px;
-    background-image: url('../img/kemda\ sandra\ winner\ of\ slam\ the\ skill.jpg');
+    background-image: url('../assets/vue-mastery.webp');
     background-size: cover;
     background-position: center;
 }
