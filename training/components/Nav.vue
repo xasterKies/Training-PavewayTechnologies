@@ -64,7 +64,7 @@ export default {
 /*Removing scroll*/
 
 .header__icons {
-    display: flex;
+    
     align-items: center;
     text-align: center;
     flex: 1;
@@ -78,8 +78,6 @@ export default {
 }
 
 .header__icon {
-    display: flex !important;
-    flex-direction: column !important;
     border: white;
     cursor: pointer;
     width: 100px;
