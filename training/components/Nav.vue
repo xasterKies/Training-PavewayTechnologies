@@ -77,11 +77,19 @@ export default {
 
 li {
     display: none;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     margin-left: auto;
     margin-right: auto;
-    font-size: small;
+    font-size: 15px;
     padding: 25px;
+    font-weight: 700;
+    opacity: 0.8;
+    transition: transform 70ms ease-out;
+}
+
+li:hover {
+    opacity: 1;
+    transform: scale(1.2)
 }
 
 .header__icon:hover > p {
