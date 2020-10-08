@@ -5,9 +5,12 @@
                 <span>
                     <li>Home</li>
                 </span>
-                
-                <li>Courses</li>
-                <li>My Courses</li>
+                <span>
+                    <li>Courses</li>
+                </span>
+                <span>
+                    <li>My Courses</li>
+                </span>
             </ul>
         </div>
     </center>
