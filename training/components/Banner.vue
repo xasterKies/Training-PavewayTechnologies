@@ -8,7 +8,7 @@
                     <div class="text"></div>
                     <br><br>
                     <div class="cta-div">
-                        <a href="" class="btn1"><span class="con-text">Contact Us</span></a>
+                        <a href="" class="btn1"><span class="con-text btn btn-primary">Contact Us</span></a>
                     </div>
                     <br>
                     <br>
