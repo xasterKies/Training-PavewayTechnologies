@@ -50,4 +50,15 @@ export default {
     top: 39%;
     width: 100%;
 }
+
+.con-text{
+    color: white;
+}
+
+
+.slider .text, .slider .typed-cursor{
+    display: inline;
+    font-size: 40px;
+    color: #ffffff;
+}
 </style>
