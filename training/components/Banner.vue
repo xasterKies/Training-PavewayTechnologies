@@ -32,7 +32,7 @@ export default {
 <style>
 .slider {
     width: 100%;
-    height: 700px;
+    height: 500px;
     background-image: url('../assets/vue-mastery.webp');
     background-size: cover;
     background-position: center;

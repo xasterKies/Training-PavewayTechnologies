@@ -1,7 +1,7 @@
 <template>
    <div class="header">
         <nav class="navbar navbar-light navbar-fixed-top " >
-        <div class="container">
+        <div>
             <div class="navbar-header">
                 <!------------------Responsive button --------------------->
                 <button  type ="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navi">
