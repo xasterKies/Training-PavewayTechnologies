@@ -30,6 +30,7 @@ export default {
 
    .navi {
     color: white;
+    display: flex;
     padding: 0px;
     align-items: center;
     justify-content: space-between;
