@@ -30,11 +30,10 @@ export default {
 
    .navi {
     color: white;
-    display: flex;
     padding: 0px;
     align-items: center;
     justify-content: space-between;
-    overflow-x: scroll;
+    overflow-x: scroll !important;
 
     margin-top: 35px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.89), #88cdff4f) !important;
