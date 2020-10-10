@@ -1,6 +1,6 @@
 <template>
-  <div className= "header__center">
-        <input type="text"/>
+  <div class= "header__center">
+        <input type="text">
         
     </div>
 </template>
